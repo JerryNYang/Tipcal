@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="Bill_name">Bill:</string>
+    <string name="tipPercenet">Tip Percentage:</string>
+    <string name="tipEx">Tip: $32.54 Total: $134.54</string>
+    <string name="hintBillEx">36.55</string>
+    <string name="percentEx">15%</string>
+    <string name="CalBName">calculate</string>
+
+</resources>
